@@ -1,0 +1,5 @@
+{
+  "name": "IMIPS - Inventory Management & Internal Processing System",
+  "description": "A comprehensive internal application for managing inventory, orders, customer inquiries, discounts, and system security. It provides role-based access for staff, managers, and administrators to streamline business operations.",
+  "requestFramePermissions": []
+}
